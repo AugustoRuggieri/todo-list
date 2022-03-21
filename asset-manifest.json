@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AugustoRuggieri/todo-list/static/css/main.07abde7e.css",
+    "main.js": "/AugustoRuggieri/todo-list/static/js/main.8f937e9f.js",
+    "static/js/787.b6086cd3.chunk.js": "/AugustoRuggieri/todo-list/static/js/787.b6086cd3.chunk.js",
+    "index.html": "/AugustoRuggieri/todo-list/index.html",
+    "main.07abde7e.css.map": "/AugustoRuggieri/todo-list/static/css/main.07abde7e.css.map",
+    "main.8f937e9f.js.map": "/AugustoRuggieri/todo-list/static/js/main.8f937e9f.js.map",
+    "787.b6086cd3.chunk.js.map": "/AugustoRuggieri/todo-list/static/js/787.b6086cd3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07abde7e.css",
+    "static/js/main.8f937e9f.js"
+  ]
+}
