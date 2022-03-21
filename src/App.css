@@ -10,7 +10,7 @@
 }
 
 body {
-  background-image: linear-gradient(to right, #ff512f, #f09819);
+  background-image: linear-gradient(to left, #434343 0%, black 100%);
   text-align: center;
   min-height: 100vh;
 }
@@ -39,7 +39,7 @@ form button {
 }
 
 form button {
-  color: #ff6f47;
+  color: #333;
   background: #f7fffe;
   cursor: pointer;
   width: 64px;
@@ -47,7 +47,7 @@ form button {
 }
 
 form button:hover {
-  background: #ff6f47;
+  background: #333;
   color: white;
 }
 
@@ -85,7 +85,7 @@ form button:hover {
 
 .delete-btn,
 .check-btn {
-  background-color: #ff6f47;
+  background-color: #333;
   color: white;
   border: none;
   padding: 1rem;
@@ -95,7 +95,7 @@ form button:hover {
 }
 
 .check-btn {
-  background-color: rgb(11, 212, 162);
+  background-color: #333;
 }
 
 .todo-item {
@@ -141,7 +141,7 @@ select {
   top: 0;
   right: 0;
   padding: 1rem;
-  background: #ff6f47;
+  background: #333;
   color: white;
   cursor: pointer;
   pointer-events: none;
