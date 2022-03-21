@@ -1,6 +1,6 @@
 {
   "name": "todo-list-app",
-  "homepage": "https://github.com/AugustoRuggieri/todo-list",
+  "homepage": "https://github.com/AugustoRuggieri/todo-list/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
