@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/AugustoRuggieri/todo-list/static/css/main.07abde7e.css",
-    "main.js": "/AugustoRuggieri/todo-list/static/js/main.8f937e9f.js",
-    "static/js/787.b6086cd3.chunk.js": "/AugustoRuggieri/todo-list/static/js/787.b6086cd3.chunk.js",
-    "index.html": "/AugustoRuggieri/todo-list/index.html",
-    "main.07abde7e.css.map": "/AugustoRuggieri/todo-list/static/css/main.07abde7e.css.map",
-    "main.8f937e9f.js.map": "/AugustoRuggieri/todo-list/static/js/main.8f937e9f.js.map",
-    "787.b6086cd3.chunk.js.map": "/AugustoRuggieri/todo-list/static/js/787.b6086cd3.chunk.js.map"
+    "main.css": "/todo-list/static/css/main.07abde7e.css",
+    "main.js": "/todo-list/static/js/main.4ded073a.js",
+    "static/js/787.a5cad257.chunk.js": "/todo-list/static/js/787.a5cad257.chunk.js",
+    "index.html": "/todo-list/index.html",
+    "main.07abde7e.css.map": "/todo-list/static/css/main.07abde7e.css.map",
+    "main.4ded073a.js.map": "/todo-list/static/js/main.4ded073a.js.map",
+    "787.a5cad257.chunk.js.map": "/todo-list/static/js/787.a5cad257.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.07abde7e.css",
-    "static/js/main.8f937e9f.js"
+    "static/js/main.4ded073a.js"
   ]
 }
